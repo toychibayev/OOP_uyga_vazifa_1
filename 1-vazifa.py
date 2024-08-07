@@ -1,3 +1,5 @@
+import os
+os.system("cls")
 class SpaceAircraft:
     def __init__(self, model, height, fuel):
         self.model = model
